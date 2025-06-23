@@ -1,0 +1,11 @@
+Here is the simplified news article:
+
+TikTok has been fined €345m for breaking EU data law in its handling of children's accounts, including failing to shield underage users' content from public view.
+
+The Irish data watchdog said TikTok had committed multiple breaches of GDPR rules. It found TikTok had contravened GDPR by placing child users' accounts on a public setting by default; failing to supply transparent information to child users; allowing an adult accessing a child's account on the "family pairing" setting to enable direct messaging for over-16s; and not properly taking into account the risks posed to under-13s on the platform who were placed on a public setting.
+
+Users aged between 13 and 17 were steered through the sign-up process in a way that resulted in their accounts being set to public – meaning anyone can see an account's content or comment on it – by default.
+
+TikTok said the investigation looked at the company's privacy setup between 31 July and 31 December 2020 and said it had addressed the problems raised by the inquiry. All existing and new TikTok accounts for 13- to 15-year-olds have been set to private – meaning only people approved by the user can view their content – by default since 2021.
+
+TikTok said: "We respectfully disagree with the decision, particularly the level of the fine imposed. The DPC's criticisms are focused on features and settings that were in place three years ago, and that we made changes to well before the investigation even began, such as setting all under-16 accounts to private by default."

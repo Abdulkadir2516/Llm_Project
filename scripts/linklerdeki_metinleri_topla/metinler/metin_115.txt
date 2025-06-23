@@ -1,0 +1,256 @@
+What are the Ofcom measures to protect children online – and will they work? | Internet safety | The Guardian
+Skip to main content
+Skip to navigation
+Close dialogue
+1
+/
+1
+Next image
+Previous image
+Toggle caption
+Skip to navigation
+Print subscriptions
+Search jobs
+Sign in
+Eur
+Europe edition
+UK edition
+US edition
+Australia edition
+International edition
+The Guardian - Back to home
+The Guardian
+News
+Opinion
+Sport
+Culture
+Lifestyle
+Show more
+Hide expanded menu
+News
+View all News
+World news
+UK news
+Climate crisis
+Ukraine
+Environment
+Science
+Global development
+Football
+Tech
+Business
+Obituaries
+Opinion
+View all Opinion
+The Guardian view
+Columnists
+Cartoons
+Opinion videos
+Letters
+Sport
+View all Sport
+Football
+Cricket
+Rugby union
+Tennis
+Cycling
+F1
+Golf
+US sports
+Culture
+View all Culture
+Books
+Music
+TV & radio
+Art & design
+Film
+Games
+Classical
+Stage
+Lifestyle
+View all Lifestyle
+Fashion
+Food
+Recipes
+Love & sex
+Health & fitness
+Home & garden
+Women
+Men
+Family
+Travel
+Money
+Search input
+google-search
+Search
+Support us
+Print subscriptions
+Search jobs
+Holidays
+Digital Archive
+Guardian Licensing
+About Us
+The Guardian app
+Video
+Podcasts
+Pictures
+Newsletters
+Today's paper
+Inside the Guardian
+Guardian Weekly
+Crosswords
+Wordiply
+Corrections
+Tips
+Search input
+google-search
+Search
+Search jobs
+Holidays
+Digital Archive
+Guardian Licensing
+About Us
+World
+UK
+Climate crisis
+Ukraine
+Environment
+Science
+Global development
+Football
+Tech
+Business
+Obituaries
+Measures stipulate that sites and apps must, among other things, filter out harmful content from children’s feeds.
+Photograph: Dominic Lipinski/PA
+View image in fullscreen
+Measures stipulate that sites and apps must, among other things, filter out harmful content from children’s feeds.
+Photograph: Dominic Lipinski/PA
+Internet safety
+This article is more than
+1 month old
+Explainer
+What are the Ofcom measures to protect children online – and will they work?
+This article is more than 1 month old
+Communications regulator has brought in more than 40 new rules for tech firms designed to keep under-18s safe
+Ofcom announces new rules for tech firms to keep children safe online
+Dan Milmo
+Global technology editor
+Thu 24 Apr 2025 14.51 CEST
+Last modified on Fri 25 Apr 2025 06.27 CEST
+Share
+The UK communications watchdog has set out
+more than 40 measures
+to keep children safe online under a landmark piece of legislation.
+The Online Safety Act has a strong focus on protecting under-18s from harmful content and the codes of practice published by
+Ofcom
+on Thursday are a significant moment for regulation of the internet.
+What are the measures set out by Ofcom?
+The measures, which apply to sites and apps, video platforms such as YouTube and search engines, include: social media algorithms, which push content towards users, must filter out harmful content from children’s feeds; risky services, which will include major social media platforms, must have “effective” age checks so they can identify those under 18 and shield them from harmful content (or make the entire site safe for children); sites and apps must “quickly tackle” harmful content; children must have a “straightforward” way to lodge complaints and report content; all services must have a named executive responsible for children’s safety.
+Broadly, the act requires sites and apps likely to be accessed by children to suppress the spread of harmful content, such as violent, hateful or abusive material and online bullying. There are other categories of content that need to be kept off children’s feeds altogether such as pornography and material related to self-harm, suicide and eating disorders.
+What happens if companies don’t follow the measures?
+From 25 July, sites and apps covered by the codes need to implement those changes – or use other “effective measures” – or risk being found guilty of breaching the act.
+If companies fail to comply with the requirement to protect children from harmful content, Ofcom can impose fines of up to £18m or 10% of global revenue. In the case of a company such as the Facebook parent, Meta, that would equate to a fine of $16.5bn (£12.4bn). For extreme breaches, Ofcom can ask a court to prevent the site or app from being available in the UK.
+Senior managers at tech firms will also be criminally liable for repeated breaches of their duty of care to children and could face up to two years in jail if they ignore enforcement notices from
+Ofcom
+.
+Do the codes tackle online misogyny and toxic male influencers?
+The Netflix series Adolescence has
+enhanced the scrutiny of online misogyny
+and the reach of misogynist influencers such as Andrew Tate. Ofcom says the codes tackle online misogyny by requiring platforms to ensure their algorithms downplay content that, for instance, demeans women or promotes the idea that men are superior to women.
+“We expect companies to not be pushing this type of content,” says Almudena Lara, an online safety policy director at Ofcom.
+Ofcom’s guidance on content harmful to children, which they must be protected from encountering, includes a “hateful or aggressive misogynistic comment targeting a woman or girl” and a “post or comment attacking someone based on their gender using offensive, demeaning language to describe them”.
+Will the proposals work?
+Before the Online Safety Act, there was no all-encompassing legislation addressed toward social media platforms and search engines. So the threat of fines and a clear instruction to protect children from harmful content should have an impact. Regulation of the online space is no longer a loose amalgam of existing laws (such as legislation covering
+malicious communications
+) and self-regulation.
+What do critics of the measures say?
+The Children’s Commissioner for England, Rachel de Souza, has criticised the measures and accused Ofcom of prioritising tech companies’ business interests over children’s safety. De Souza, who
+outlined a number of concerns about Ofcom’s approach last year
+, said the measures did not do enough to allay children’s fears about the online world.
+The Molly Rose Foundation, established by the family of Molly Russell, a
+British teenager who took her own life
+after viewing harmful online content, believes the measures do not go far enough in various areas, including tackling damaging algorithms, stopping dangerous online challenges or making fundamental changes to how content is moderated.
+The NSPCC, a child protection charity, wants tougher measures on strongly encrypted messaging services such as WhatsApp – an ongoing issue for safety campaigners – although it describes the measures overall as a “major step forward”.
+Will the measures come under pressure from the US?
+The Online Safety Act has been highlighted as a potential bargaining chip in US-UK trade talks, with a report this month claiming that a
+draft transatlantic trade agreement
+contains commitments to review enforcement of the legislation. However, the report from online newsletter Playbook said the review would not be a “do-over” of the act. The Guardian
+has also reported
+that the US state department has challenged Ofcom over the act’s impact on freedom of expression.
+The science, innovation and technology secretary, Peter Kyle, has taken a firm stance on amending the act. Speaking on BBC Radio 5 Live on Thursday, he said US tech firms “must adhere to British laws” if they are to operate in the UK. He said Silicon Valley bosses such as Elon Musk and Mark Zuckerberg must “adapt to the different territories they have access to”.
+Kyle has also made clear that protection of children was a red line, saying last month that “none of our protections for children and vulnerable people are up for negotiation”.
+Explore more on these topics
+Internet safety
+Child protection
+Regulators
+Ofcom
+Internet
+Social media
+Digital media
+explainers
+Share
+Reuse this content
+More on this story
+More on this story
+Ofcom announces new rules for tech firms to keep children safe online
+24 Apr 2025
+Social media platforms face huge fines under UK’s new digital safety laws
+17 Mar 2025
+Online forums being used to trade explicit images of local women, says charity
+14 Feb 2025
+Meta’s content moderation changes ‘hugely concerning’, says Molly Rose Foundation
+28 Jan 2025
+Stronger age checks to come into force for online pornography sites in UK
+16 Jan 2025
+UK online safety laws ‘unsatisfactory’ and ‘uneven’, says science minister
+12 Jan 2025
+Molly Russell’s father tells Starmer UK ‘going backwards’ on online safety
+11 Jan 2025
+Ofcom urged to act after US firm claims Roblox is ‘paedophile hellscape’
+15 Oct 2024
+Most viewed
+Most viewed
+World
+UK
+Climate crisis
+Ukraine
+Environment
+Science
+Global development
+Football
+Tech
+Business
+Obituaries
+News
+Opinion
+Sport
+Culture
+Lifestyle
+Original reporting and incisive analysis, direct from the Guardian every morning
+Sign up for our email
+Help
+Complaints & corrections
+SecureDrop
+Work for us
+Privacy policy
+Cookie policy
+Terms & conditions
+Contact us
+All topics
+All writers
+Digital newspaper archive
+Tax strategy
+Facebook
+YouTube
+Instagram
+LinkedIn
+Newsletters
+Advertise with us
+Search UK jobs
+Tips
+Back to top
+©
+2025
+Guardian News & Media Limited or its affiliated companies. All rights reserved.
+(dcr)

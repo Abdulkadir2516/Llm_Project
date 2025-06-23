@@ -1,0 +1,239 @@
+‘It’s terrifying’: WhatsApp AI helper mistakenly shares user’s number | Artificial intelligence (AI) | The Guardian
+Skip to main content
+Skip to navigation
+Close dialogue
+1
+/
+1
+Next image
+Previous image
+Toggle caption
+Skip to navigation
+Print subscriptions
+Search jobs
+Sign in
+Eur
+Europe edition
+UK edition
+US edition
+Australia edition
+International edition
+The Guardian - Back to home
+The Guardian
+News
+Opinion
+Sport
+Culture
+Lifestyle
+Show more
+Hide expanded menu
+News
+View all News
+World news
+UK news
+Climate crisis
+Ukraine
+Environment
+Science
+Global development
+Football
+Tech
+Business
+Obituaries
+Opinion
+View all Opinion
+The Guardian view
+Columnists
+Cartoons
+Opinion videos
+Letters
+Sport
+View all Sport
+Football
+Cricket
+Rugby union
+Tennis
+Cycling
+F1
+Golf
+US sports
+Culture
+View all Culture
+Books
+Music
+TV & radio
+Art & design
+Film
+Games
+Classical
+Stage
+Lifestyle
+View all Lifestyle
+Fashion
+Food
+Recipes
+Love & sex
+Health & fitness
+Home & garden
+Women
+Men
+Family
+Travel
+Money
+Search input
+google-search
+Search
+Support us
+Print subscriptions
+Search jobs
+Holidays
+Digital Archive
+Guardian Licensing
+About Us
+The Guardian app
+Video
+Podcasts
+Pictures
+Newsletters
+Today's paper
+Inside the Guardian
+Guardian Weekly
+Crosswords
+Wordiply
+Corrections
+Tips
+Search input
+google-search
+Search
+Search jobs
+Holidays
+Digital Archive
+Guardian Licensing
+About Us
+World
+UK
+Climate crisis
+Ukraine
+Environment
+Science
+Global development
+Football
+Tech
+Business
+Obituaries
+Meta said its AI may return inaccurate outputs, and that it was working to make its models better.
+Photograph: Thomas Fuller/Sopa Images/Rex/Shutterstock
+View image in fullscreen
+Meta said its AI may return inaccurate outputs, and that it was working to make its models better.
+Photograph: Thomas Fuller/Sopa Images/Rex/Shutterstock
+Artificial intelligence (AI)
+‘It’s terrifying’: WhatsApp AI helper mistakenly shares user’s number
+Chatbot tries to change subject after serving up unrelated user’s mobile to man asking for rail firm helpline
+Robert Booth
+UK technology editor
+Wed 18 Jun 2025 13.14 CEST
+Last modified on Thu 19 Jun 2025 11.21 CEST
+Share
+T
+he
+Meta
+chief executive, Mark Zuckerberg, called it “the most intelligent AI assistant that you can freely use”. But Barry Smethurst, 41, a record shop worker trying to travel by rail from Saddleworth to Manchester Piccadilly, did not agree.
+Waiting on the platform for a morning train that was nowhere to be seen, he asked Meta’s
+WhatsApp
+AI assistant for a contact number for TransPennine Express. The chatbot confidently sent him a mobile phone number for customer services, but it turned out to be the private number of a completely unconnected WhatsApp user 170 miles away in Oxfordshire.
+It was the beginning of a bizarre exchange of the kind more and more people are having with AI systems, in which chatbots try to negotiate their way out of trouble, deflect attention from their mistakes and contradict themselves, all in an attempt to continue to appear useful.
+Smethurst’s joust with Meta’s AI began when he told it the TransPennine helpline it had dug up looked like a private number. When he asked what this number was, the AI quickly said it shouldn’t have shared it and tried to change the subject, saying: “Let’s focus on finding the right info for your TransPennine Express query!”
+But Smethurst wanted to know why it had shared the private number, which it turned out belonged to James Gray, 44, a property industry executive from Oxfordshire who is also a WhatsApp user and whose number appears on his company website.
+The AI explained vaguely it was generated “based on patterns” and promised to “strive to do better in the future” by admitting when it didn’t know an answer. But it then falsely described the number as “fictional” and not “associated with anyone”. When Smethurst challenged that, it admitted: “You’re right,” and said it may have been “mistakenly pulled from a database”.
+Asked which database, it muddied the waters further by contradicting itself again saying: “I didn’t pull the number from a database. I generated a string of digits that fit the format of a UK mobile number but it wasn’t based on any real data on contacts.”
+With the conversation going round in circles, Smethurst said he did not believe the chatbot and told it: “Just giving a random number to someone is an insane thing for an AI to do.”
+“It’s terrifying,” Smethurst said, after he raised a complaint with Meta. “If they made up the number, that’s more acceptable, but the overreach of taking an incorrect number from some database it has access to is particularly worrying.”
+Gray said he had thankfully not received calls from people trying to reach TransPennine Express, but said: “If it’s generating my number could it generate my bank details?”
+Asked about Zuckerberg’s claim that the AI was “the most intelligent”, Gray said: “That has definitely been thrown into doubt in this instance.”
+Developers working with OpenAI chatbot technology recently
+shared examples
+of “systemic deception behaviour masked as helpfulness” and a tendency to “say whatever it needs to to appear competent” as a result of chatbots being programmed to reduce “user friction”.
+In March, a Norwegian man
+filed a complaint
+after he asked OpenAI’s ChatGPT for information about himself and was confidently told that he was in jail for murdering two of his children, which was false.
+And earlier this month a writer who asked ChatGPT to help her pitch her work to a literary agent
+revealed
+how after lengthy flattering remarks about her “stunning” and “intellectually agile” work, the chatbot was caught out lying that it had read the writing samples she uploaded when it hadn’t fully and had made up quotes from her work. It even admitted it was “not just a technical issue – it’s a serious ethical failure”.
+Referring to Smethurst’s case, Mike Stanhope, the managing director of strategic data consultants Carruthers and Jackson, said: “This is a fascinating example of AI gone wrong. If the engineers at Meta are designing ‘white lie’ tendencies into their AI, the public need to be informed, even if the intention of the feature is to minimise harm. If this behaviour is novel, uncommon, or not explicitly designed, this raises even more questions around what safeguards are in place and just how predictable we can force an AI’s behaviour to be.”
+Meta said that its AI may return inaccurate outputs, and that it was working to make its models better.
+“Meta AI is trained on a combination of licensed and publicly available datasets, not on the phone numbers people use to register for WhatsApp or their private conversations,” a spokesperson said. “A quick online search shows the phone number mistakenly provided by Meta AI is both publicly available and shares the same first five digits as the TransPennine Express customer service number.”
+A spokesperson for OpenAI said: “Addressing hallucinations across all our models is an ongoing area of research. In addition to informing users that ChatGPT can make mistakes, we’re continuously working to improve the accuracy and reliability of our models through a variety of methods.”
+This article was amended on 19 June 2025. Carruthers and Jackson is a strategic data consultancy, not a law firm as an earlier version said.
+Explore more on these topics
+Artificial intelligence (AI)
+WhatsApp
+Meta
+Social media
+features
+Share
+Reuse this content
+More on this story
+More on this story
+Keir Starmer’s AI tsar to step down after six months in role
+3d ago
+BBC threatens legal action against AI startup over content scraping
+3d ago
+OpenAI boss accuses Meta of trying to poach staff with $100m sign-on bonuses
+5d ago
+Amazon boss tells staff AI means their jobs are at risk in coming years
+5d ago
+Policymakers who think AI can help rescue flagging UK economy should take heed
+15 Jun 2025
+Workers in UK need to embrace AI or risk being left behind, minister says
+14 Jun 2025
+AI can ‘level up’ opportunities for dyslexic children, says UK tech secretary
+10 Jun 2025
+Advanced AI suffers ‘complete accuracy collapse’ in face of complex problems, study finds
+9 Jun 2025
+Chinese tech firms freeze AI tools in crackdown on exam cheats
+9 Jun 2025
+Most viewed
+Most viewed
+World
+UK
+Climate crisis
+Ukraine
+Environment
+Science
+Global development
+Football
+Tech
+Business
+Obituaries
+News
+Opinion
+Sport
+Culture
+Lifestyle
+Original reporting and incisive analysis, direct from the Guardian every morning
+Sign up for our email
+Help
+Complaints & corrections
+SecureDrop
+Work for us
+Privacy policy
+Cookie policy
+Terms & conditions
+Contact us
+All topics
+All writers
+Digital newspaper archive
+Tax strategy
+Facebook
+YouTube
+Instagram
+LinkedIn
+Newsletters
+Advertise with us
+Search UK jobs
+Tips
+Back to top
+©
+2025
+Guardian News & Media Limited or its affiliated companies. All rights reserved.
+(dcr)

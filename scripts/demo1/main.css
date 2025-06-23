@@ -1,0 +1,8 @@
+css = """
+body {
+    background-image: url('https://yourdomain.com/background.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}

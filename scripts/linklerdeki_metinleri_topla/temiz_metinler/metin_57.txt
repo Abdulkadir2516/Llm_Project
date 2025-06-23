@@ -1,0 +1,11 @@
+Here is the news article with unnecessary parts, ads, author information, and titles removed:
+
+Tech firms have been told to "tame aggressive algorithms" that recommend harmful content to children, as part of Ofcom's new safety codes of practice. The children's safety codes, introduced as part of the Online Safety Act, let Ofcom set new, tight rules for internet companies and how they can interact with children.
+
+It calls on services to make their platforms child-safe by default or implement robust age checks to identify children and give them safer versions of the experience. For those sites with age checks, Ofcom will require algorithmic curation to be tweaked to limit the risks to younger users.
+
+Seriously harmful content, including that relating to suicide, self-harm and eating disorders, will need to be kept off children's feeds entirely, as will pornography. Enforcing the new requirements will pose a challenge. Algorithmic curation is often described as a "black box", with some companies unsure how their own systems decide what content to promote and suppress.
+
+Ofcom is confident that its enforcement will be effective, says Gill Whitehead, the regulator's Online Safety lead. "We've spoken to 15,000 children in the last two years in the run up to today, and they tell us the types of harmful content they're seeing, how it appears, and how often they're seeing it."
+
+The draft code is open for consultation until 17 July, before it is finalised and presented to parliament, with services given three months to conduct their own children's risk assessments, which must be completed before enforcement begins.

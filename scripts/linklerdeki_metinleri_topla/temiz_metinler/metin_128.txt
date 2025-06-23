@@ -1,0 +1,17 @@
+Here is the news article with unnecessary parts removed:
+
+Ofcom is banning mobile operators from leasing numbers that can be used by criminals to intercept and divert calls and messages, including security codes sent by banks to customers.
+
+The regulator said it would stop the leasing of “global titles”, special types of phone numbers used by mobile networks to support services to make sure messages and calls reach the intended recipient.
+
+Until now, global titles could be leased out to third parties, providing a technical loophole whereby criminals could get hold of and intercept messages.
+
+Natalie Black, the director for networks and communications at Ofcom, said: “We are taking world-leading action to tackle the threat posed by criminals gaining access to mobile networks. Leased global titles are one of the most significant and persistent sources of malicious signalling. Our ban will help prevent them falling into the wrong hands, protecting mobile users and our critical telecoms infrastructure in the process.”
+
+The National Cyber Security Centre has recognised the risk posed by leasing global titles, but Ofcom said it had implemented a ban because industry-led efforts to tackle the problem had not been effective.
+
+Ollie Whitehouse, the chief technical officer at the NCSC, said: “Today’s announcement marks an important step in the support of our mission to make the UK the safest place to live and work online. This technique, which is actively used by unregulated commercial companies, poses privacy and security risks to everyday users, and we urge our international partners to follow suit in addressing it.”
+
+Ofcom has also published new guidance for mobile operators to ensure they are clear on their responsibilities to prevent the misuse of global titles.
+
+The ban on entering new leasing arrangements comes into force immediately. However, for any leasing agreements that are already in place the ban will not come into force until 22 April 2026. This is designed to give legitimate businesses that now lease global titles from mobile networks time to make alternative arrangements.

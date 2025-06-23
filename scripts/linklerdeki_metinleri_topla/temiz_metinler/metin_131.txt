@@ -1,0 +1,11 @@
+Here is the simplified news article:
+
+Ofcom has fined the subscription platform OnlyFans just over £1m for failing to provide accurate information about its age checks. In June 2022 and 2023, Ofcom asked OnlyFans' parent company, Fenix International, for information on its age checking procedures, including the effectiveness of its facial estimation technology.
+
+OnlyFans enables celebrities, influencers, and content creators to make money from their work, and is a popular platform among sex workers who use it to sell explicit content. Ofcom launched a dual investigation into OnlyFans last May over concerns it was not doing enough to stop children accessing pornography, and that it had failed to provide complete and accurate information.
+
+Ofcom determined that OnlyFans had failed to provide accurate information in response to requests by the regulator, which allow it to monitor if video-sharing platforms are protecting children. The errors stemmed from a claim by Fenix that it had set a “challenge age” for its facial age estimation technology at 23 years old.
+
+In reality, the challenge age had been set at 20 years old since 2021. Ofcom requires robust checks to be in place to ensure information is properly interrogated and reviewed before it is submitted to a formal information request.
+
+As a result of these failings, Ofcom has imposed a financial penalty on Fenix of £1.05m, which will be passed on to the Treasury.

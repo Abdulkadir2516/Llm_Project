@@ -1,0 +1,12 @@
+Here is the simplified news article:
+
+The children's commissioner for England is calling for "nudification" apps to be banned to prevent them generating sexual imagery of children.
+
+What are 'nudification' apps?
+Advances in artificial intelligence software have paved the way for the emergence of "nudification" tools, which are becoming easier to find on social media or search engines. These apps and websites produce deepfake nude images of real people using generative AI.
+
+How would a ban work?
+The children's commissioner is asking the government to legislate to ban AI tools that are designed or marketed as "nudification" services. This could be achieved through a number of legal mechanisms, such as an amendment to the product safety and metrology bill or an AI bill that would make it the responsibility of providers of generative AI models to prevent their use for nudifying children.
+
+What powers does the Online Safety Act contain?
+The children's commissioner does not believe that the Online Safety Act contains the provisions required to fully protect children from harm. However, she notes that in the meantime, the risk can be partially mitigated through Ofcom's implementation of the act.

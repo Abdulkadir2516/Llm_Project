@@ -1,0 +1,230 @@
+Virgin Media O2 mobile users’ locations exposed for two years in security flaw | Virgin Media | The Guardian
+Skip to main content
+Skip to navigation
+Close dialogue
+1
+/
+1
+Next image
+Previous image
+Toggle caption
+Skip to navigation
+Print subscriptions
+Search jobs
+Sign in
+Eur
+Europe edition
+UK edition
+US edition
+Australia edition
+International edition
+The Guardian - Back to home
+The Guardian
+News
+Opinion
+Sport
+Culture
+Lifestyle
+Show more
+Hide expanded menu
+News
+View all News
+World news
+UK news
+Climate crisis
+Ukraine
+Environment
+Science
+Global development
+Football
+Tech
+Business
+Obituaries
+Opinion
+View all Opinion
+The Guardian view
+Columnists
+Cartoons
+Opinion videos
+Letters
+Sport
+View all Sport
+Football
+Cricket
+Rugby union
+Tennis
+Cycling
+F1
+Golf
+US sports
+Culture
+View all Culture
+Books
+Music
+TV & radio
+Art & design
+Film
+Games
+Classical
+Stage
+Lifestyle
+View all Lifestyle
+Fashion
+Food
+Recipes
+Love & sex
+Health & fitness
+Home & garden
+Women
+Men
+Family
+Travel
+Money
+Search input
+google-search
+Search
+Support us
+Print subscriptions
+Search jobs
+Holidays
+Digital Archive
+Guardian Licensing
+About Us
+The Guardian app
+Video
+Podcasts
+Pictures
+Newsletters
+Today's paper
+Inside the Guardian
+Guardian Weekly
+Crosswords
+Wordiply
+Corrections
+Tips
+Search input
+google-search
+Search
+Search jobs
+Holidays
+Digital Archive
+Guardian Licensing
+About Us
+UK
+UK politics
+Education
+Media
+Society
+Law
+Scotland
+Wales
+Northern Ireland
+The flaw, which was corrected this week, has been reported to regulators.
+Photograph: Ben Birchall/PA
+View image in fullscreen
+The flaw, which was corrected this week, has been reported to regulators.
+Photograph: Ben Birchall/PA
+Virgin Media
+Virgin Media O2 mobile users’ locations exposed for two years in security flaw
+Most precise tracking was in cities, where mobile masts cover areas as small as 100 square metres
+Rachel Hall
+Thu 29 May 2025 18.06 CEST
+Last modified on Fri 30 May 2025 06.25 CEST
+Share
+The locations of millions of
+Virgin Media
+O2 mobile customers were exposed for up to two years until a network security flaw was corrected, it has emerged.
+Before the fix was implemented on 18 May, anyone with a Virgin Media O2 sim card could use their phone to obtain sensitive information about the network’s other customers using a 4G-enabled device, including their location to the nearest mobile mast.
+The flaw has now been patched and reported to the UK’s communications and data protection regulators. Virgin Media O2 said there was no evidence that its network security systems had been externally breached.
+The locations of customers could be tracked most precisely in urban areas, where mobile masts cover areas as small as 100 square metres.
+Dan Williams, an IT specialist who discovered the defect, wrote that he was “extremely disappointed” not to receive a response when he flagged the issue, which was resolved only after he
+blogged about it
+two months later, on 17 May. He said there had been no explanation for the delay.
+He wrote: “I don’t want to be the enemy, I simply want to feel comfortable using my phone.”
+Williams noticed Virgin Media O2’s failure to configure its 4G calling software correctly when he was looking at messaging between his device and the network to work out call quality between himself and another O2 customer.
+“I noticed that the responses from the network were extremely long, and upon inspection noticed that extra information from the recipient of the call was sent to the call initiator,” he told the Guardian.
+This included normally private information, such as the cell ID, which is the current cell tower a caller is connected to; information about sim card, which could be used for a cyber-attack; and the phone model, which can be used to work out how to access it.
+He believed that it was “possible this was used in the wild and not reported against” though there was no way to quantify that. If it had been that would be “quite a large problem”, as “there are situations where this data is extremely, extremely sensitive”, for example domestic abuse survivors or government workers, he added.
+“I came across it by accident. Someone purposefully trying to find these kinds of vulnerabilities would have probably come across it,” he said. “There are white papers detailing this exact scenario and warning networks against doing this.”
+The FT, which
+first reported Williams’s findings,
+said he had tested the problem with another O2 customer, successfully tracking them to Copenhagen, Denmark.
+Disabling the 4G calling feature on devices would have prevented them from being tracked, though this is not possible on some handsets, such as iPhones. The issue may have also affected some customers of Giffgaff and Tesco Mobile, which use Virgin Media O2’s network.
+skip past newsletter promotion
+Sign up to
+Business Today
+Free daily newsletter
+Get set for the working day – we'll point you to all the business news and analysis you need every morning
+Enter your email address
+Sign up
+Privacy Notice:
+Newsletters may contain info about charities, online ads, and content funded by outside parties. For more information see our
+Privacy Policy
+. We use Google reCaptcha to protect our website and the Google
+Privacy Policy
+and
+Terms of Service
+apply.
+after newsletter promotion
+Alan Woodward, cybersecurity professor at Surrey University, said location data “could be valuable for scams such as social engineering, or even blackmail” and for phishing attempts referencing a recent location, though they would need other information about the person for this to work.
+He said this was unlikely to happen for normal people who were not criminal targets, but nevertheless fixing the vulnerability should have been a “matter of urgency”.
+A Virgin Media O2 spokesperson said: “Our engineering teams had been working on and testing a fix for this configuration issue over a number of weeks, and we can confirm this fix was fully implemented on 18 May.
+“Our customers do not need to take any action, and we have no evidence of this issue being exploited beyond the two illustrative examples given by a network engineer in his blog which we reported to the ICO [Information Commissioner’s Office] and
+Ofcom
+. There has been no external compromise of our network security at any time.”
+An Ofcom spokesperson said it was “aware that O2 has experienced a network security issue”, and is in contact with the provider to establish the scale and cause of the problem.
+An ICO spokesperson said that after assessing the information provided by Telefonica and remedial steps taken, “we will not be taking further action at this stage”.
+Explore more on these topics
+Virgin Media
+Media business
+Mobile phones
+4G
+Information commissioner
+Consumer affairs
+Ofcom
+news
+Share
+Reuse this content
+Most viewed
+Most viewed
+UK
+UK politics
+Education
+Media
+Society
+Law
+Scotland
+Wales
+Northern Ireland
+News
+Opinion
+Sport
+Culture
+Lifestyle
+Original reporting and incisive analysis, direct from the Guardian every morning
+Sign up for our email
+Help
+Complaints & corrections
+SecureDrop
+Work for us
+Privacy policy
+Cookie policy
+Terms & conditions
+Contact us
+All topics
+All writers
+Digital newspaper archive
+Tax strategy
+Facebook
+YouTube
+Instagram
+LinkedIn
+Newsletters
+Advertise with us
+Search UK jobs
+Tips
+Back to top
+©
+2025
+Guardian News & Media Limited or its affiliated companies. All rights reserved.
+(dcr)

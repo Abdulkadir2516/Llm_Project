@@ -1,0 +1,15 @@
+Here is the news article with unnecessary parts, ads, author information, and headlines removed:
+
+Social media platforms face significant fines if they fail to implement robust measures in the UK to tackle illegal content, including fraud, terrorism, and child sexual abuse material, under new digital safety laws.
+
+Tech companies must implement safeguards that take action against illegal harms such as encouraging suicide, extreme pornography and selling drugs.
+
+From Monday, every site and app within the scope of the Online Safety Act, which covers more than 100,000 services, will be required to take steps to stop such content appearing or to take it down if it goes online.
+
+The technology secretary, Peter Kyle, said the illegal content crackdown was “just the beginning”. “In recent years, tech companies have treated safety as an afterthought. That changes today,” he said.
+
+Companies that breach the act face fines of up to £18m or 10% of worldwide revenue, which in the case of those such as Facebook’s owner, Meta, or Google would equate to billions of pounds. In extreme cases, services can also be taken down.
+
+Ofcom, the UK watchdog overseeing the act, has published codes of conduct for tech platforms to follow in order to avoid breaching the legislation. The act lists 130 “priority offences”, or illegal content, that tech companies must tackle as a priority by ensuring their moderation systems are geared to deal with such material.
+
+The codes of conduct include: hiding children’s online profiles and locations by default from users they do not know; introducing measures that allow women to block and mute users who are harassing or stalking them; establishing a reporting channel for organisations that can help deal with online fraud cases; and using “hash matching” technology, which is used to identify illegal images, to prevent sharing of terrorist content and non-consensual intimate images, or “revenge porn”.

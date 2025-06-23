@@ -1,0 +1,17 @@
+Here is the news article with unnecessary parts, ads, author information, and headlines removed:
+
+Internet safety campaigners have urged the UK's communications watchdog to limit the use of artificial intelligence in crucial risk assessments after a report that Mark Zuckerberg's Meta was planning to automate checks.
+
+Ofcom said it was "considering the concerns" raised by the campaigners' letter, after a report last month that up to 90% of all risk assessments at the owner of Facebook, Instagram and WhatsApp would soon be carried out by AI.
+
+Social media platforms are required under the UK's Online Safety Act to gauge how harm could take place on their services and how they plan to mitigate those potential harms – with a particular focus on protecting child users and preventing illegal content from appearing.
+
+In a letter to Ofcom's chief executive, organisations including the Molly Rose Foundation, the NSPCC and the Internet Watch Foundation described the prospect of AI-driven risk assessments as a "retrograde and highly alarming step".
+
+They said: "We urge you to publicly assert that risk assessments will not normally be considered as 'suitable and sufficient', the standard required by … the act, where these have been wholly or predominantly produced through automation."
+
+A spokesperson for Ofcom said: "We've been clear that services should tell us who completed, reviewed and approved their risk assessment. We are considering the concerns raised in this letter and will respond in due course."
+
+Meta said the letter deliberately misstated the company's approach on safety and it was committed to high standards and complying with regulations.
+
+"We are not using AI to make decisions about risk," said a Meta spokesperson. "Rather, our experts built a tool that helps teams identify when legal and policy requirements apply to specific products. We use technology, overseen by humans, to improve our ability to manage harmful content and our technological advancements have significantly improved safety outcomes."

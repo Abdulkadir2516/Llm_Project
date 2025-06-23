@@ -1,0 +1,13 @@
+Here is the news article with unnecessary parts removed:
+
+The UK communications watchdog has set out more than 40 measures to keep children safe online under a landmark piece of legislation. The Online Safety Act has a strong focus on protecting under-18s from harmful content and the codes of practice published by Ofcom on Thursday are a significant moment for regulation of the internet.
+
+The measures, which apply to sites and apps, video platforms such as YouTube and search engines, include: social media algorithms, which push content towards users, must filter out harmful content from children’s feeds; risky services, which will include major social media platforms, must have “effective” age checks so they can identify those under 18 and shield them from harmful content (or make the entire site safe for children); sites and apps must “quickly tackle” harmful content; children must have a “straightforward” way to lodge complaints and report content; all services must have a named executive responsible for children’s safety.
+
+From 25 July, sites and apps covered by the codes need to implement those changes – or use other “effective measures” – or risk being found guilty of breaching the act. If companies fail to comply with the requirement to protect children from harmful content, Ofcom can impose fines of up to £18m or 10% of global revenue.
+
+Senior managers at tech firms will also be criminally liable for repeated breaches of their duty of care to children and could face up to two years in jail if they ignore enforcement notices from Ofcom.
+
+The codes tackle online misogyny by requiring platforms to ensure their algorithms downplay content that, for instance, demeans women or promotes the idea that men are superior to women.
+
+Critics of the measures say they do not do enough to allay children’s fears about the online world. The Children’s Commissioner for England, Rachel de Souza, has accused Ofcom of prioritising tech companies’ business interests over children’s safety. The Molly Rose Foundation believes the measures do not go far enough in various areas, including tackling damaging algorithms, stopping dangerous online challenges or making fundamental changes to how content is moderated.

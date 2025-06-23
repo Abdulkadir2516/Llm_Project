@@ -1,0 +1,225 @@
+TikTok fined €345m for breaking EU data law on children’s accounts | TikTok | The Guardian
+Skip to main content
+Skip to navigation
+Close dialogue
+1
+/
+1
+Next image
+Previous image
+Toggle caption
+Skip to navigation
+Print subscriptions
+Search jobs
+Sign in
+Eur
+Europe edition
+UK edition
+US edition
+Australia edition
+International edition
+The Guardian - Back to home
+The Guardian
+News
+Opinion
+Sport
+Culture
+Lifestyle
+Show more
+Hide expanded menu
+News
+View all News
+World news
+UK news
+Climate crisis
+Ukraine
+Environment
+Science
+Global development
+Football
+Tech
+Business
+Obituaries
+Opinion
+View all Opinion
+The Guardian view
+Columnists
+Cartoons
+Opinion videos
+Letters
+Sport
+View all Sport
+Football
+Cricket
+Rugby union
+Tennis
+Cycling
+F1
+Golf
+US sports
+Culture
+View all Culture
+Books
+Music
+TV & radio
+Art & design
+Film
+Games
+Classical
+Stage
+Lifestyle
+View all Lifestyle
+Fashion
+Food
+Recipes
+Love & sex
+Health & fitness
+Home & garden
+Women
+Men
+Family
+Travel
+Money
+Search input
+google-search
+Search
+Support us
+Print subscriptions
+Search jobs
+Holidays
+Digital Archive
+Guardian Licensing
+About Us
+The Guardian app
+Video
+Podcasts
+Pictures
+Newsletters
+Today's paper
+Inside the Guardian
+Guardian Weekly
+Crosswords
+Wordiply
+Corrections
+Tips
+Search input
+google-search
+Search
+Search jobs
+Holidays
+Digital Archive
+Guardian Licensing
+About Us
+World
+Europe
+US
+Americas
+Asia
+Australia
+Middle East
+Africa
+Inequality
+Global development
+The Irish Data Protection Commission said users aged between 13 and 17 were steered through the sign-up process in a way that set their accounts to public.
+Photograph: Omar Marques/SOPA Images/Shutterstock
+View image in fullscreen
+The Irish Data Protection Commission said users aged between 13 and 17 were steered through the sign-up process in a way that set their accounts to public.
+Photograph: Omar Marques/SOPA Images/Shutterstock
+TikTok
+This article is more than
+1 year old
+TikTok fined €345m for breaking EU data law on children’s accounts
+This article is more than 1 year old
+Irish data regulator says platform put 13- to 17-year-old users’ accounts on default public setting, among other breaches
+Dan Milmo
+Global technology editor
+Fri 15 Sep 2023 14.00 CEST
+Last modified on Sat 16 Sep 2023 03.31 CEST
+Share
+TikTok has been fined €345m (£296m) for breaking EU data law in its handling of children’s accounts, including failing to shield underage users’ content from public view.
+The Irish data watchdog, which regulates TikTok across the EU, said the Chinese-owned video app had committed multiple breaches of
+GDPR
+rules.
+It found TikTok had contravened GDPR by placing child users’ accounts on a public setting by default; failing to supply transparent information to child users; allowing an adult accessing a child’s account on the “family pairing” setting to enable direct messaging for over-16s; and not properly taking into account the risks posed to under-13s on the platform who were placed on a public setting.
+The Irish Data Protection Commission (DPC) said users aged between 13 and 17 were steered through the sign-up process in a way that resulted in their accounts being set to public – meaning anyone can see an account’s content or comment on it – by default. It also found that the “family pairing” scheme, which gives an adult control over a child’s account settings, did not check whether the adult “paired” with the child user was a parent or guardian.
+TikTok under investigation over child data use
+Read more
+The DPC ruled that TikTok, which has a minimum user age of 13, did not properly take into account the risk posed to underage users who gained access to the platform. It said the public-setting-by-default process allowed anyone to “view social media content posted by those users”.
+The Duet and Stitch features, which allow users to combine their content with other TikTokers, were also enabled by default for under-17s. However, the DPC found there had been no infringement of GDPR in terms of its methods for verifying users’ ages.
+The DPC decision comes after TikTok was
+fined £12.7m in April by the UK data regulator
+for illegally processing the data of 1.4 million children under 13 who were using its platform without parental consent. The information commissioner said TikTok had done “very little, if anything” to check who was using the platform.
+TikTok said the investigation looked at the company’s privacy setup between 31 July and 31 December 2020 and said it had addressed the problems raised by the inquiry. All existing and new TikTok accounts for 13- to 15-year-olds have been set to private – meaning only people approved by the user can view their content – by default since 2021.
+skip past newsletter promotion
+Sign up to
+Business Today
+Free daily newsletter
+Get set for the working day – we'll point you to all the business news and analysis you need every morning
+Enter your email address
+Sign up
+Privacy Notice:
+Newsletters may contain info about charities, online ads, and content funded by outside parties. For more information see our
+Privacy Policy
+. We use Google reCaptcha to protect our website and the Google
+Privacy Policy
+and
+Terms of Service
+apply.
+after newsletter promotion
+TikTok said: “We respectfully disagree with the decision, particularly the level of the fine imposed. The DPC’s criticisms are focused on features and settings that were in place three years ago, and that we made changes to well before the investigation even began, such as setting all under-16 accounts to private by default.”
+The DPC also acknowledged it had been overruled by the European Data Protection Board, a body comprising EU member state data and privacy regulators, on some aspects of its decision. This meant it had to include a proposed finding by the German regulator that the use of “dark patterns” – the term for deceptive website and app designs that steer users into certain behaviours or making particular choices – breached a GDPR provision on fair processing of personal data.
+Explore more on these topics
+TikTok
+Social media
+Data protection
+GDPR
+Digital media
+Children
+Children's tech
+news
+Share
+Reuse this content
+Most viewed
+Most viewed
+World
+Europe
+US
+Americas
+Asia
+Australia
+Middle East
+Africa
+Inequality
+Global development
+News
+Opinion
+Sport
+Culture
+Lifestyle
+Original reporting and incisive analysis, direct from the Guardian every morning
+Sign up for our email
+Help
+Complaints & corrections
+SecureDrop
+Work for us
+Privacy policy
+Cookie policy
+Terms & conditions
+Contact us
+All topics
+All writers
+Digital newspaper archive
+Tax strategy
+Facebook
+YouTube
+Instagram
+LinkedIn
+Newsletters
+Advertise with us
+Search UK jobs
+Tips
+Back to top
+©
+2025
+Guardian News & Media Limited or its affiliated companies. All rights reserved.
+(dcr)

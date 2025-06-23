@@ -1,0 +1,11 @@
+Here is the simplified news article:
+
+Virgin Media O2 mobile users' locations were exposed for up to two years due to a network security flaw. The flaw, which was corrected on May 18, allowed anyone with a Virgin Media O2 sim card to obtain sensitive information about other customers, including their location to the nearest mobile mast.
+
+The locations of customers could be tracked most precisely in urban areas, where mobile masts cover areas as small as 100 square meters. The flaw was discovered by IT specialist Dan Williams, who wrote about it on his blog after not receiving a response from Virgin Media O2.
+
+Williams noticed that the network was sending extra information, including cell ID, sim card information, and phone model, which could be used for cyber-attacks. He believed that it was possible that the flaw had been exploited by others, although there was no way to quantify it.
+
+Disabling the 4G calling feature on devices would have prevented customers from being tracked, although this is not possible on some handsets, such as iPhones. The issue may have also affected some customers of Giffgaff and Tesco Mobile, which use Virgin Media O2's network.
+
+Virgin Media O2 reported the issue to the UK's communications and data protection regulators, and said there was no evidence that its network security systems had been externally breached.

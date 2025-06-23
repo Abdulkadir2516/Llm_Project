@@ -1,0 +1,9 @@
+Here is the main text of the news article:
+
+A new design code for websites, aimed at children, will soon come into force. How much difference will it make – and is a child-safe internet possible?
+
+The first children who grew up in an online era are now fully grown adults – but we still have no consistent approach to protecting young people online, leaving huge risks around bullying, access to pornography, self-harm imagery and all kinds of content only suitable for adults.
+
+With the government’s online harms bill presented in draft form and a new age-appropriate design code due to be rolled out in September, the subject is high on the political agenda. Meanwhile, technological changes in areas such as facial recognition are advancing technology to limit who can see what online. But will these changes make any meaningful difference to the kind of content that children can see online? What are the implications of the kind of data children would have to give up to internet companies to make it work? And is a completely child-safe internet possible – or even desirable – if it comes at the cost of significant online freedoms which we have all come to take for granted?
+
+Anushka Asthana talks to the Guardian’s UK technology editor, Alex Hern, about the nature of the risks parents have to think about, the effectiveness of the approaches which can be used to reduce them, and the possible limitations of any such systems.

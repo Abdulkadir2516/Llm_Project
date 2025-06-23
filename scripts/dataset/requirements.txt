@@ -1,0 +1,6 @@
+feedparser
+beautifulsoup4
+requests
+discord.py
+python-dotenv
+pymongo[srv]

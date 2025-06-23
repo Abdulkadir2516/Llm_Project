@@ -1,0 +1,13 @@
+Here is the news article with unnecessary parts removed:
+
+Harrods has been hit by a cyber-attack, just days after Marks & Spencer and the Co-op were targeted. The luxury department store is understood to have been forced to shut down some systems, but said its website and all its stores, including the Knightsbridge flagship, H beauty and airport outlets, continued to operate.
+
+Harrods said in a statement: “We recently experienced attempts to gain unauthorised access to some of our systems. Our seasoned IT security team immediately took proactive steps to keep systems safe and as a result we have restricted internet access at our sites today.”
+
+The retailer said it was not asking customers to take any action, indicating that it did not suspect data had been accessed. It added: “We will continue to provide updates as necessary.”
+
+The problems at Harrods emerged as M&S continues to battle problems caused by a cyber incident that has been linked to the hacking collective Scattered Spider. More than £650m has been wiped off the stock market value of the company as its website has been forced to stop orders for almost a week.
+
+The Co-op has also had to shut down some internal systems and warned staff to keep cameras on during online conferencing after detecting an attempted hack. Stores and online business continue to operate as usual.
+
+Retailers are on high alert as many use the same systems as M&S and the Co-op, SAP, so potential hackers could try to use the same methods in many businesses.

@@ -1,0 +1,240 @@
+Ofcom closes technical loophole used by criminals to intercept mobile calls and texts | Telecoms | The Guardian
+Skip to main content
+Skip to navigation
+Close dialogue
+1
+/
+1
+Next image
+Previous image
+Toggle caption
+Skip to navigation
+Print subscriptions
+Search jobs
+Sign in
+Eur
+Europe edition
+UK edition
+US edition
+Australia edition
+International edition
+The Guardian - Back to home
+The Guardian
+News
+Opinion
+Sport
+Culture
+Lifestyle
+Show more
+Hide expanded menu
+News
+View all News
+World news
+UK news
+Climate crisis
+Ukraine
+Environment
+Science
+Global development
+Football
+Tech
+Business
+Obituaries
+Opinion
+View all Opinion
+The Guardian view
+Columnists
+Cartoons
+Opinion videos
+Letters
+Sport
+View all Sport
+Football
+Cricket
+Rugby union
+Tennis
+Cycling
+F1
+Golf
+US sports
+Culture
+View all Culture
+Books
+Music
+TV & radio
+Art & design
+Film
+Games
+Classical
+Stage
+Lifestyle
+View all Lifestyle
+Fashion
+Food
+Recipes
+Love & sex
+Health & fitness
+Home & garden
+Women
+Men
+Family
+Travel
+Money
+Search input
+google-search
+Search
+Support us
+Print subscriptions
+Search jobs
+Holidays
+Digital Archive
+Guardian Licensing
+About Us
+The Guardian app
+Video
+Podcasts
+Pictures
+Newsletters
+Today's paper
+Inside the Guardian
+Guardian Weekly
+Crosswords
+Wordiply
+Corrections
+Tips
+Search input
+google-search
+Search
+Search jobs
+Holidays
+Digital Archive
+Guardian Licensing
+About Us
+World
+UK
+Climate crisis
+Ukraine
+Environment
+Science
+Global development
+Football
+Tech
+Business
+Obituaries
+Global titles are special types of phone number that allow calls and messages to be intercepted and diverted.
+Photograph: Andy Rain/EPA
+View image in fullscreen
+Global titles are special types of phone number that allow calls and messages to be intercepted and diverted.
+Photograph: Andy Rain/EPA
+Telecoms
+This article is more than
+1 month old
+Ofcom closes technical loophole used by criminals to intercept mobile calls and texts
+This article is more than 1 month old
+Regulator acts on leasing of ‘global title’ numbers after industry efforts to tackle problem were ineffective
+Mark Sweney
+Tue 22 Apr 2025 17.21 CEST
+First published on Tue 22 Apr 2025 15.42 CEST
+Share
+The UK communications regulator
+Ofcom
+is banning mobile operators from leasing numbers that can be used by criminals to intercept and divert calls and messages, including security codes sent by banks to customers.
+Ofcom said it would stop the leasing of “global titles”, special types of phone numbers used by mobile networks to support services to make sure messages and calls reach the intended recipient.
+The regulator said until now global titles, which are used in the background of billions of calls and messages sent worldwide, could be leased out to third parties, providing a technical loophole whereby criminals could
+get hold of and intercept messages
+.
+Natalie Black, the director for networks and communications at Ofcom, said: “We are taking world-leading action to tackle the threat posed by criminals gaining access to mobile networks. Leased global titles are one of the most significant and persistent sources of malicious signalling. Our ban will help prevent them falling into the wrong hands, protecting mobile users and our critical telecoms infrastructure in the process.”
+The National Cyber Security Centre has recognised the risk posed by leasing global titles, but Ofcom said it had implemented a ban because industry-led efforts to tackle the problem had not been effective.
+Ollie Whitehouse, the chief technical officer at the NCSC, said: “Today’s announcement marks an important step in the support of our mission to make the UK the safest place to live and work online. This technique, which is actively used by unregulated commercial companies, poses privacy and security risks to everyday users, and we urge our international partners to follow suit in addressing it.”
+Ofcom has also published new guidance for mobile operators to ensure they are clear on their responsibilities to prevent the misuse of global titles.
+The ban on entering new leasing arrangements comes into force immediately. However, for any leasing agreements that are already in place the ban will not come into force until 22 April 2026. This is designed to give legitimate businesses that now lease global titles from mobile networks time to make alternative arrangements.
+skip past newsletter promotion
+Sign up to
+Business Today
+Free daily newsletter
+Get set for the working day – we'll point you to all the business news and analysis you need every morning
+Enter your email address
+Sign up
+Privacy Notice:
+Newsletters may contain info about charities, online ads, and content funded by outside parties. For more information see our
+Privacy Policy
+. We use Google reCaptcha to protect our website and the Google
+Privacy Policy
+and
+Terms of Service
+apply.
+after newsletter promotion
+Rocio Concha, of the consumer group Which?, said: “Fraud is the most common crime in the UK so it’s great to see Ofcom take action to close loopholes in mobile networks … Lord Hanson, the fraud minister, must ensure that the government ends the fragmented approach to scam prevention and outlines a more coordinated approach across the tech, banking and telecoms sectors in its upcoming fraud strategy.”
+Explore more on these topics
+Telecoms
+Ofcom
+Regulators
+Telecommunications industry
+Data and computer security
+Mobile phones
+news
+Share
+Reuse this content
+More on this story
+More on this story
+Ofcom accused of prioritising interests of tech firms over child safety online
+24 Apr 2025
+OnlyFans fined £1m over inaccurate information on age checks
+27 Mar 2025
+Ofcom rushes to close loophole that lets politicians act as newsreaders
+17 Mar 2025
+Second-class letter deliveries in UK could be scrapped on Saturdays
+5 Sept 2024
+Ofcom clamps down on millions of scam ‘spoofed number’ calls from abroad
+29 Jul 2024
+Ofcom to ban inflation-linked mid-contract price rises on phones, pay-TV and broadband
+19 Jul 2024
+OnlyFans investigated over claim children accessed pornography
+1 May 2024
+Nigel Farage can host GB News show during election, says Ofcom
+24 Apr 2024
+Most viewed
+Most viewed
+World
+UK
+Climate crisis
+Ukraine
+Environment
+Science
+Global development
+Football
+Tech
+Business
+Obituaries
+News
+Opinion
+Sport
+Culture
+Lifestyle
+Original reporting and incisive analysis, direct from the Guardian every morning
+Sign up for our email
+Help
+Complaints & corrections
+SecureDrop
+Work for us
+Privacy policy
+Cookie policy
+Terms & conditions
+Contact us
+All topics
+All writers
+Digital newspaper archive
+Tax strategy
+Facebook
+YouTube
+Instagram
+LinkedIn
+Newsletters
+Advertise with us
+Search UK jobs
+Tips
+Back to top
+©
+2025
+Guardian News & Media Limited or its affiliated companies. All rights reserved.
+(dcr)

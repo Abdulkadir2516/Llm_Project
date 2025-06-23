@@ -1,0 +1,31 @@
+Here is the news article with unnecessary parts removed:
+
+The technology trial for Australia’s social media ban is “broadly on track”, the government says, despite a month-long delay of a key report on the best ways to keep under-16s off the platforms.
+
+The company behind the age assurance trial has revealed only one type of technology has been tested on children so far and some internal stakeholder concerns about how young people may circumvent the age ban systems.
+
+The federal government has also been sitting on a separate report, costing more than $275,000, that it commissioned last year on Australians’ attitudes to age assurance technology. It was delivered to the government on 2 January but has not yet been released.
+
+The UK-based company recruited to run the trial, Age Check Certification Scheme (ACCS), was due to publish its age assurance report in June. The report will focus on which technology could be used to prevent under-16s gaining access to social media and under-18s accessing adult websites.
+
+The federal communications department has confirmed the ACCS report would now be delivered in July and the minister would decide when to publish it.
+
+One of the first tasks for the new communications minister, Labor’s Anika Wells, will be to assess the outcome of the trial, to decide which technologies are applicable and to which platforms they will apply.
+
+Affected platforms must have age assurance systems in place by December. Wells must be satisfied that the platforms – expected to include Facebook, Instagram, TikTok and Snapchat – are taking reasonable steps to stop under 16s accessing their services.
+
+In an update on the age assurance trial from ACCS last week, it said the only type of technology trialed so far is facial age estimation tech, which examines a photo or video of a user to try to estimate the age based on their facial features.
+
+A total of 1,580 tests have been conducted on 485 students, in years 7 to 12.
+
+The trial will try to confirm those claims through “a combination of practical testing and a vendor interview”. About half of the interviews have been completed.
+
+Technologies deemed sufficiently mature to include in the final report will be tested by another company – the Australian-owned KJR – or through schools testing or mystery-shopper type testing.
+
+Mystery-shopper testing is a “real-world environment, where users will have a variety of equipment, light conditions and access to required resources, be that an ID document or a bank account”.
+
+ACCS said there will only be “enough testing” to confirm claims made by vendors “and that may be achieved with a relatively modest level of practical experimentation”.
+
+The March meeting minutes for the stakeholder advisory board overseeing the trial reported stakeholders had raised concerns about gaps in the testing, particularly around how children may circumvent the age ban systems.
+
+A spokesperson for the department said a preliminary report, provided in April but not released publicly, gave the government “anticipated findings in relation to age verification, age estimation, age inference, successive validation, parental control and parental consent methods”.
